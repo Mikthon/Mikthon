@@ -575,7 +575,7 @@ async def _(event):
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
-☆ المطور : @M_B_U
+☆ المطور : @F_F_J
 ☆ Mikthon Source : @mikthon**
 ''')
 
@@ -670,7 +670,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @F_F_J
 ''', reply_to=event)
 
 
@@ -679,7 +679,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @F_F_J
 ''', reply_to=event)
 
 
@@ -688,7 +688,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @F_F_J
 ''', reply_to=event)
 
 
@@ -697,7 +697,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @F_F_J
 ''', reply_to=event)
 
 
